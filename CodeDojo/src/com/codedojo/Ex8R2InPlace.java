@@ -1,5 +1,7 @@
 package com.codedojo;
 
+import java.util.Arrays;
+
 public class Ex8R2InPlace {
     public static void main(String[] args) {
         // NOTE: The following input values will be used for testing your solution.
@@ -10,6 +12,7 @@ public class Ex8R2InPlace {
         // [[7, 4, 1],
         //  [8, 5, 2],
         //  [9, 6, 3]]
+        System.out.println(String.format("rotate(a1, 3) returns:\n%s", printMatrix(rotate(a1, 3))));
 
         int a2[][] = {{1, 2, 3, 4},
                       {5, 6, 7, 8},
@@ -20,6 +23,8 @@ public class Ex8R2InPlace {
         //  [14, 10, 6, 2],
         //  [15, 11, 7, 3],
         //  [16, 12, 8, 4]]
+        System.out.println(String.format("rotate(a2, 4) returns:\n%s", printMatrix(rotate(a2, 4))));
+
     }
 
     // Implement your solution below.
@@ -51,5 +56,14 @@ public class Ex8R2InPlace {
         newCoordinates[0] = j;
         newCoordinates[1] = n - 1 - i;
         return newCoordinates;
+    }
+
+    private static String printMatrix(int[][] toPrint){
+        StringBuilder builder = new StringBuilder();
+        for (int i = 0; i<toPrint.length;i++){
+            builder.append(Arrays.toString(toPrint[i]));
+            builder.append("\n");
+        }
+        return builder.toString();
     }
  }

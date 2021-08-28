@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa825ded-d51c-41da-9603-b4072f81d0df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex3IR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex4MyNR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex4NR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex5MyOA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex5OA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex6MS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex6MyMS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex7MS2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex7MyMS2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex8MyR2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex8R2InPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectEuler/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectEuler/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Libros/Cracking the Coding Interview 189 Programming Questions and Solutions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Libros/Cracking the Coding Interview 189 Programming Questions and Solutions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex10BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex10MyBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex11MyLCA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex9MyNth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex9Nth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/LCA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeDojo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeDojo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeDojo/.idea/runConfigurations/Ex8MyR2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeDojo/.idea/runConfigurations/Ex10BST.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex8R2InPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex8R2InPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Ex8MyR2" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="com.codedojo.Ex8MyR2" />
+  <configuration default="false" name="Ex10BST" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.codedojo.Ex10BST" />
     <module name="CodeDojo" />
     <extension name="coverage">
       <pattern>
