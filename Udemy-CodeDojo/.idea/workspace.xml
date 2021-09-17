@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa825ded-d51c-41da-9603-b4072f81d0df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex10BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex10MyBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex11MyLCA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex9MyNth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex9Nth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/LCA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeDojo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeDojo/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeDojo/.idea/runConfigurations/Ex8MyR2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeDojo/.idea/runConfigurations/Ex10BST.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex8R2InPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeDojo/src/com/codedojo/Ex8R2InPlace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectEuler/src/com/company/Ex2EvenFibanacciNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectEuler/ProjectEuler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectEuler/ProjectEuler.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module">
+    <option name="configuration">
+      <map />
+    </option>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BigO" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch01ArraysAndStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch02LinkedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch03StacksAndQueues" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch04TreesAndGraphs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch05BitManipulation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch06MathAndLogicPuzzles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch07Object-OrientedDesign" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch08RecursionAndDynamicProgramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch09ScalabilityAndMemoryLimits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch10SortingAndSearching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch13Java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch15ThreadsAndLocks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch16Moderate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ch17Hard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CtCILibrary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Introduction" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
