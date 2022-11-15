@@ -45,7 +45,6 @@ Books for Technical Interview:
 
 - Cracking the Code Interview
 https://www.amazon.com/-/es/Gayle-Laakmann-McDowell-dp-0984782850/dp/0984782850/ref=mt_other?_encoding=UTF8&me=&qid=1629296342
-
 - Algorithms
 https://www.amazon.com/-/es/Thomas-H-Cormen/dp/0262033844/ref=zg_bs_3870_2?_encoding=UTF8&psc=1&refRID=M4MRGPGAQCS266FPGFKJ
 
