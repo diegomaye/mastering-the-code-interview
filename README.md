@@ -1,9 +1,11 @@
-# google-interview-preparation
- Google Interview Preparation Algorithms
+# interview-preparation
+ Interview Preparation Algorithms
  
- Overview
- Aim of this document is to centralize all algorithms I have been developed to prepare for Google Interview, I use recomended Project Euler + Carrer cup + Hacker Rank, best so far Hacker Rank as best interface, but Project Euler are more related with math (important topic in Google Interviewes) + Carrer Cup has examples of Google interviews:
+# Overview
+ Aim of this document is to centralize all algorithms I have been collected to interview & recruite candidates, I based this repository in book Craking the code interview, and Google Interview recomendations. There are multiple projects and repos like: Project Euler + Carrer cup + Hacker Rank (recommended by Google/Amazon/Microsoft), as a recomendation for those starting the best so far is Hacker Rank & Leet Code since both have a beutiful and user friendly interface, Project Euler are more related with math and have more puzzles + Carrer Cup has Google interviews examples uploaded by people.
  
+ 
+ https://leetcode.com
  https://projecteuler.net/
  https://careercup.com/
  https://www.hackerrank.com/dashboard
